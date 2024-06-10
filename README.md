@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- Greeting -->
+# Hey there! :wave:
+
+<!--Introduction -->
+I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **Delhi**. I'm currently pursuing my passion for **cloud computing** and **AI/ML**. Outside of my studies, I also enjoy pursuing my hobbies of **sketching**, **designing**, and **amateur astronomy**.
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-ManavVerma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manavvrma)
+[![Telegram](https://img.shields.io/badge/-@Manav6666-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Manav6666)
+[![Gmail](https://img.shields.io/badge/-manavvrma17-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manavvrma17@gmail.com)
+
+<!-- Profile View Count -->
+![](https://komarev.com/ghpvc/?username=manavvrma&style=flat)
 
 ###
 
@@ -48,15 +60,11 @@
 
 ###
 
-<h4 align="left">Connect with me</h4>
+
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
+
 
 ###
 
@@ -73,7 +81,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manavvrma/manavvrma/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
