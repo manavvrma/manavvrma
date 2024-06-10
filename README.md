@@ -87,7 +87,7 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manavvrma&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=40&order=3" height="140" alt="streak graph" />
