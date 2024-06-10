@@ -10,7 +10,14 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 [![Gmail](https://img.shields.io/badge/-manavvrma17-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manavvrma17@gmail.com)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=manavvrma&style=flat)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/manavvrma/count.svg?"  />
+</div>
+
+###
 
 ###
 
@@ -83,10 +90,4 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/manavvrma/count.svg?"  />
-</div>
-
-###
