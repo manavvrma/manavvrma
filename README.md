@@ -13,11 +13,13 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/manavvrma/count.svg?"  />
 </div>
 
 ###
+
+<img align="right" height="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
 
 ###
 
@@ -73,11 +75,7 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 
 
-###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
-
-###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=manavvrma&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=40&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
@@ -85,9 +83,3 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 </div>
 
 ###
-
-<br clear="both">
-
-
-
-
