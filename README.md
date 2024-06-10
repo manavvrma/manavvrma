@@ -1,4 +1,3 @@
-    <!-- Greeting -->
 # Hey there! :wave:
 
 <!--Introduction -->
@@ -18,6 +17,8 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 </div>
 
 ###
+
+<img align="right" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **Machine Learning**
 
