@@ -91,8 +91,7 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manavvrma&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=40&order=3" height="140" alt="streak graph" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=manavvrma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph" />
 </div>
-
-###
 
