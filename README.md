@@ -10,13 +10,13 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 <!-- Profile View Count -->
 <img align="right" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
-###
+
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/manavvrma/count.svg?"  />
 </div>
 
-###
+
 
 
 
