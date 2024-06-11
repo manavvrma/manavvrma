@@ -9,7 +9,7 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 [![Gmail](https://img.shields.io/badge/-manavvrma17-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manavvrma17@gmail.com)
 
 <!-- Profile View Count -->
-
+<img align="right" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
 ###
 
 <div align="left">
@@ -18,7 +18,7 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 ###
 
-<img align="right" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
+
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **Machine Learning**
 
