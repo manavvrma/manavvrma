@@ -20,7 +20,7 @@ I'm **Manav Verma**, a **creative** and **enthusiastic problem solver** from **D
 
 
 
-- 🌱 I’m currently learning **Data Structures & Algorithms** and **Machine Learning**
+- 🌱 I’m currently learning **DSA** and **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps projects**
 
