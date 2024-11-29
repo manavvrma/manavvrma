@@ -1,4 +1,6 @@
-# ![Header Image](clideo_editor_c0cb1cfc7dc241a58a6f46a30907fe02-ezgif.com-crop.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=138&color=gradient&text=Hello%20I'm%20Manav%20Verma&descAlign=6&fontAlign=50&fontColor=FFFFFF&textBg=false&fontSize=40" width="100%"/>
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=manavvrma&icon=10&color=4)](https://visitcount.itsvg.in)
