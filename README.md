@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&text=Hello%20I'm%20Manav%20Verma&descAlign=6&fontAlign=50&fontColor=FFFFFF&textBg=false&fontSize=35" width="100%"/>
-</p>
-
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=manavvrma&icon=10&color=4)](https://visitcount.itsvg.in)
 
