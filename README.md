@@ -1,6 +1,8 @@
-# 💫 About Me:
+# ![Header Image](github_banner.gif)
+
 [![](https://visitcount.itsvg.in/api?id=manavvrma&icon=10&color=4)](https://visitcount.itsvg.in)
 
+**💫 About Me**
 - 🔭 I’m currently working on **MERN projects**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms and AI**
