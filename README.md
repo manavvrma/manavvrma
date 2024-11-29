@@ -1,11 +1,15 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=manavvrma&icon=10&color=4)](https://visitcount.itsvg.in)
 
-🔭 Currently working on **MERN projects**  
-🌱 Learning **Data Structures & Algorithms** and exploring **Artificial Intelligence**  
-👯 Open to collaborating on **React applications**  
-👨‍💻 Check out my projects: [manavvrma.cloud](https://manavvrma.cloud/)  
-📫 Reach me at **manavvrma17@gmail.com**
+- 🔭 I’m currently working on **MERN projects**
+
+- 🌱 I’m currently learning **Data Structure & Algorithms and AI**
+
+- 👯 I’m looking to collaborate on **React applications**
+
+- 👨‍💻 All of my projects are available at [https://manavvrma.cloud/](https://manavvrma.cloud/)
+
+- 📫 How to reach me **manavvrma17@gmail.com**
 
 
 
