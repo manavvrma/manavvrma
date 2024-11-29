@@ -35,18 +35,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
 
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manavvrma&theme=dark&hide_border=false)      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavvrma&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+---
 
 ### 🔗 Useful Links:
 - 💼 [Portfolio](https://manavvrma.cloud/)
 - 📧 Email: [manavvrma17@gmail.com](mailto:manavvrma17@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/manavvrma)
 
-
+---
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manavvrma&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
