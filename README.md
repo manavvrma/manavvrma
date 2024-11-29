@@ -33,8 +33,43 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=manavvrma&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavvrma&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manavvrma&theme=dark&hide_border=false)      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavvrma&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+
+---
+
+### 🔗 Useful Links:
+- 💼 [Portfolio](https://manavvrma.cloud/)
+- 📧 Email: [manavvrma17@gmail.com](mailto:manavvrma17@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/manavvrma)
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manavvrma&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🌟 Featured Projects:
+#### 🚀 Project Name: **MERN Todo App**  
+- Built with **React.js**, **Node.js**, and **MongoDB**  
+- Features include CRUD operations, authentication, and a responsive design  
+- [Check it out](https://manavvrma.cloud/projects/mern-todo)
+
+#### 🌐 Project Name: **Portfolio Website**  
+- Developed with **React**, hosted on **Vercel**  
+- Integrated analytics and modern UI design  
+- [View Portfolio](https://manavvrma.cloud/)
+
+---
+
+### 📈 Weekly Coding Breakdown:
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 45 mins ██████████████░░░░░░░░░░░   55.4%  
+Python       6 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   22.8%  
+React        4 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░░░░░   15.5%  
+Other        2 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░░   6.3%
 
 
