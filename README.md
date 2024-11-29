@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Header GIF" width="100%" height="50%" />
-</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=manavvrma&icon=10&color=4)](https://visitcount.itsvg.in)
