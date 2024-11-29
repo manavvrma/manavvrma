@@ -7,12 +7,12 @@
 👨‍💻 Check out my projects: [manavvrma.cloud](https://manavvrma.cloud/)  
 📫 Reach me at **manavvrma17@gmail.com**
 
----
+
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavvrma)  
 
----
+
 
 # 💻 Tech Stack:
 ### 🚀 Cloud & DevOps:
@@ -30,46 +30,26 @@
 ### 🎨 Tools & Platforms:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
 
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manavvrma&theme=dark&hide_border=false)      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavvrma&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 
----
 
 ### 🔗 Useful Links:
 - 💼 [Portfolio](https://manavvrma.cloud/)
 - 📧 Email: [manavvrma17@gmail.com](mailto:manavvrma17@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/manavvrma)
 
----
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manavvrma&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
 
-### 🌟 Featured Projects:
-#### 🚀 Project Name: **MERN Todo App**  
-- Built with **React.js**, **Node.js**, and **MongoDB**  
-- Features include CRUD operations, authentication, and a responsive design  
-- [Check it out](https://manavvrma.cloud/projects/mern-todo)
 
-#### 🌐 Project Name: **Portfolio Website**  
-- Developed with **React**, hosted on **Vercel**  
-- Integrated analytics and modern UI design  
-- [View Portfolio](https://manavvrma.cloud/)
 
----
 
-### 📈 Weekly Coding Breakdown:
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 45 mins ██████████████░░░░░░░░░░░   55.4%  
-Python       6 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   22.8%  
-React        4 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░░░░░   15.5%  
-Other        2 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░░   6.3%
 
 
