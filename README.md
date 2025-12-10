@@ -49,6 +49,7 @@
 - 💼 [Portfolio](https://manavvrma.cloud/)
 - 📧 Email: [manavvrma17@gmail.com](mailto:manavvrma17@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/manavvrma)
+- 🔗 [X](https://x.com/manavvrma17)
 
 ---
 
